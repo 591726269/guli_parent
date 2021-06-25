@@ -9,15 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>service_base</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>com.bysj</groupId>
-            <artifactId>common_utils</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
+    <artifactId>common_utils</artifactId>
 
 
 </project>
